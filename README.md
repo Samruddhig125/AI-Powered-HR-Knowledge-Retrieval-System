@@ -1,0 +1,2 @@
+# AI-Powered HR Knowledge Retrieval System
+ This project, developed during a hackathon, is an AI-powered question-answering system designed to make HR processes more efficient. Users can upload large HR-related PDFs (like policies, contracts, and manuals), ask questions, and get accurate answers in real time using AI language models.  Built with Streamlit, LangChain, Ollama, and Chroma, the project enables quick and precise information retrieval from complex documents, reducing time and effort spent navigating through content.
